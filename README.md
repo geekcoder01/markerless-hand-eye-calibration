@@ -43,7 +43,7 @@ RealSense depth ──► ROI around gripper ──► gripper points (camera)  
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/markerless-hand-eye-calibration.git
+git clone https://github.com/geekcoder01/markerless-hand-eye-calibration.git
 cd markerless-hand-eye-calibration
 python3 -m venv .venv
 source .venv/bin/activate
