@@ -1,0 +1,8 @@
+child_frame: camera_color_optical_frame
+median_explained_fraction: 0.721
+method: cad_depth_icp_noros
+n_board_poses: 10
+parent_frame: base_link
+rms_error_mm: 6.56
+rotation_xyzw: [0.799975, 0.360866, -0.190461, -0.439932]
+translation: [1.0645, -0.498268, 0.919743]
